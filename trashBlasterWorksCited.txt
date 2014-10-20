@@ -1,0 +1,17 @@
+GIF IMAGES-
+
+background: http://cloud-no9.deviantart.com/art/Recycle-Wallpaper-1280x1024-97856301
+grouch garbage can: http://mostateteachers.typepad.com/.a/6a00d83494ed8153ef014e8636308c970d-500wi
+newspaper: http://www.artclips.com/clipart/free/clipart/Newspaper.gif
+computer: http://openclipart.org/image/800px/svg_to_png/159709/computer-laptop.png
+soda can: http://www.clker.com/cliparts/I/j/i/5/j/u/soda-can-hi.png
+milk jug: http://www.pamsclipart.com/clipart_images/plastic_jug_of_milk_0515-1007-1003-1923_SMU.jpg
+beer/glass bottles: http://www.culinaryschools.org/clipart/beer/beer-bottles-case.gif
+recycle bin: http://www.clker.com/cliparts/M/P/p/0/1/U/recycle-bin-hi.png
+chalkboard: http://www.clker.com/cliparts/o/2/v/2/U/a/chalkboard-hi.png
+titles/words: http://www.flamingtext.com
+
+CODE-
+
+I used code from my tetris.py and moreSnake.py homework files. 
+
