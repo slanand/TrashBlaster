@@ -1,6 +1,4 @@
 # TrashBlaster
-By Swathi Anand
-====================
 
 ### About
 
