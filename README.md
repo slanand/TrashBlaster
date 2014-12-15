@@ -18,7 +18,7 @@ You can view a demo of the game here: http://tinyurl.com/trashblaster
 Using Terminal:
 - cd into Trashblaster directory in which the "trashBlaster.py" file and all its gif images are saved.
 - Run the python interpreter by typing 'python' into terminal.
-- Type 'execfile("trashBlaster.py")
+- Type `execfile("trashBlaster.py")`
 
 Using a multi-language text editor:
 - Open the file "trashBlaster.py" and make sure all its gif images are in the same directory as the file.
