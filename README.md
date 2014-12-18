@@ -4,7 +4,7 @@
 
 TrashBlaster is an educational computer game created using Python's Tkinter module.
 TrashBlaster is designed to encourage its users to develop the habit of recycling. 
-You can view a demo of the game here: http://tinyurl.com/trashblaster 
+You can view a demo of the game [here](http://tinyurl.com/trashblaster). 
 
 
 ### Minimum Systems Requirements
